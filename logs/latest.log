@@ -1,0 +1,77 @@
+[16:55:42] [Client thread/INFO]: Setting user: Octave
+[16:55:43] [Client thread/INFO]: LWJGL Version: 2.9.4
+[16:55:44] [Client thread/INFO]: Reloading ResourceManager: Default
+[16:55:44] [Client thread/WARN]: Missing sound for event: craftyourmind:sound/entity/minotaure/attack
+[16:55:44] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:55:45] [Thread-33/INFO]: Initializing LWJGL OpenAL
+[16:55:45] [Thread-33/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:55:45] [Thread-33/INFO]: OpenAL initialized.
+[16:55:45] [Client thread/WARN]: Unable to load item model: 'craftyourmind:item/heal_stone' for item: 'craftyourmind:heal_stone'
+java.io.FileNotFoundException: craftyourmind:models/item/heal_stone.json
+	at bvw.a(FallbackResourceManager.java:62) ~[bvw.class:?]
+	at bwi.a(SimpleReloadableResourceManager.java:63) ~[bwi.class:?]
+	at bxo.c(ModelBakery.java:282) ~[bxo.class:?]
+	at bxo.a(ModelBakery.java:344) [bxo.class:?]
+	at bxo.f(ModelBakery.java:318) [bxo.class:?]
+	at bxo.c(ModelBakery.java:141) [bxo.class:?]
+	at bxo.a(ModelBakery.java:69) [bxo.class:?]
+	at bxp.a(SourceFile:23) [bxp.class:?]
+	at bwi.a(SimpleReloadableResourceManager.java:113) [bwi.class:?]
+	at bcd.an(Minecraft.java:515) [bcd.class:?]
+	at bcd.a(Minecraft.java:368) [bcd.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:116) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_241]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.7.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:27) [launchwrapper-1.7.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_241]
+	at fr.theshark34.openlauncherlib.internal.InternalLauncher.launch(InternalLauncher.java:166) [openlauncherlib-3.0.2-BETA.jar:?]
+	at fr.craftyourmind.launcher.Launcher.launchGame(Launcher.java:93) [launcher.jar:?]
+	at fr.craftyourmind.launcher.Launcher$2.run(Launcher.java:73) [launcher.jar:?]
+[16:55:45] [Client thread/WARN]: Unable to load item model: 'craftyourmind:item/luck_stone' for item: 'craftyourmind:luck_stone'
+java.io.FileNotFoundException: craftyourmind:models/item/luck_stone.json
+	at bvw.a(FallbackResourceManager.java:62) ~[bvw.class:?]
+	at bwi.a(SimpleReloadableResourceManager.java:63) ~[bwi.class:?]
+	at bxo.c(ModelBakery.java:282) ~[bxo.class:?]
+	at bxo.a(ModelBakery.java:344) [bxo.class:?]
+	at bxo.f(ModelBakery.java:318) [bxo.class:?]
+	at bxo.c(ModelBakery.java:141) [bxo.class:?]
+	at bxo.a(ModelBakery.java:69) [bxo.class:?]
+	at bxp.a(SourceFile:23) [bxp.class:?]
+	at bwi.a(SimpleReloadableResourceManager.java:113) [bwi.class:?]
+	at bcd.an(Minecraft.java:515) [bcd.class:?]
+	at bcd.a(Minecraft.java:368) [bcd.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:116) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_241]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.7.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:27) [launchwrapper-1.7.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_241]
+	at fr.theshark34.openlauncherlib.internal.InternalLauncher.launch(InternalLauncher.java:166) [openlauncherlib-3.0.2-BETA.jar:?]
+	at fr.craftyourmind.launcher.Launcher.launchGame(Launcher.java:93) [launcher.jar:?]
+	at fr.craftyourmind.launcher.Launcher$2.run(Launcher.java:73) [launcher.jar:?]
+[16:55:45] [Sound Library Loader/INFO]: Sound engine started
+[16:55:45] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[16:55:46] [Client thread/WARN]: Missing model for: craftyourmind:item/heal_stone
+[16:55:46] [Client thread/WARN]: Missing model for: craftyourmind:item/luck_stone
+[16:55:46] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:55:48] [Client thread/INFO]: [CHAT] A new §eOptiFine§f version is available: §eHD Ultra E7§f
+[16:55:49] [Client thread/INFO]: [CHAT] Welcome, Octave!
+[16:55:49] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[16:55:49] [Client thread/INFO]: [CHAT] Type /list to see who else is online.
+[16:55:49] [Client thread/INFO]: [CHAT] Players online: 1 - World time: 4:50 PM
+[16:55:49] [Client thread/INFO]: [CHAT] [MPDB] Loading your data...
+[16:55:49] [Client thread/INFO]: [CHAT] [MPDB] Data sync complete!
+[16:55:55] [Client thread/INFO]: Stopping!
+[16:55:55] [Client thread/INFO]: SoundSystem shutting down...
+[16:55:56] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

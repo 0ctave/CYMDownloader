@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CYMDownloader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CYMDownloader_jar</output-path>
+    <root id="archive" name="CYMDownloader.jar">
+      <element id="module-output" name="CYMDownloader" />
+      <element id="extracted-dir" path="H:/Libs/openlauncherlib-3.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="H:/Libs/s-update-3.1.0-BETA.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
